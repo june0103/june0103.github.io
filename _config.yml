@@ -3,3 +3,4 @@ description: AI/개발 학습 노트 정리
 remote_theme: just-the-docs/just-the-docs
 plugins: [jekyll-remote-theme]
 nav_enabled: true
+permalink: /:year/:month/:day/:title/
