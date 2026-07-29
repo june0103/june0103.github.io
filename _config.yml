@@ -1,8 +1,9 @@
 title: 기술 블로그
-   description: AI/개발 학습 노트 정리
-   remote_theme: just-the-docs/just-the-docs
-   plugins:
-     - jekyll-remote-theme
+description: AI/개발 학습 노트 정리
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
-   # 왼쪽 사이드바에 카테고리별 메뉴가 자동 생성됨
-   nav_enabled: true
+  # 왼쪽 사이드바에 카테고리별 메뉴가 자동 생성됨
+  nav_enabled: true
+  
